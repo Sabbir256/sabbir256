@@ -9,7 +9,7 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 <p align="center">
 <a href="https://www.linkedin.com/in/sabbir-ahmed-badhon/" target="_blank"><img src="linkedin.png" width="25px"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Sabbir_Badhon" target="_blank"><img src="twitter.png" width="25px"></a> &nbsp; &nbsp;
- <a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.webp" width="25px"></a>
+ <a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.png" width="25px"></a>
 </p>
 
 <!--
