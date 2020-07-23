@@ -7,8 +7,9 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 </p>
 
 <p align="center">
-  
+  [![linkedin](https://user-images.githubusercontent.com/29686831/88250565-cbecad80-ccc9-11ea-8af7-38294956f932.png)][1]
  </p>
+
 
 <!--
 **SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://www.linkedin.com/in/sabbir-ahmed-badhon/
