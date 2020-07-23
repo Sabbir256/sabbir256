@@ -7,7 +7,7 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 </p>
 
 <p align="center">
-  [![linkedin](https://user-images.githubusercontent.com/29686831/88250565-cbecad80-ccc9-11ea-8af7-38294956f932.png)][1]
+  [![linkedin](https://github.com/SABadhon/SABadhon/issues/1#issue-664183600)][1]
  </p>
 
 
