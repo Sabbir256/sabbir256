@@ -1,6 +1,7 @@
 ### Hi, I am Badhon 👋 :smiley:
 
-# Md. Sabbir Ahmed
+<h1 align="center"> Md. Sabbir Ahmed</h1>
+
 ##### Undergraduate Student
 
 <!--
