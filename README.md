@@ -1,7 +1,7 @@
 ### Hi, I am Badhon 👋 :smiley:
 
 <h1 align="center">Sabbir Ahmed Badhon</h1>
-<h4 align="center">Undergraduate Student, RUET || Research Novice || ML Enthusiast</h4> 
+<h4 align="center">Undergraduate Student, RUET &nbsp; || &nbsp; Research Novice &nbsp; || &nbsp; ML Enthusiast</h4> 
 <p align="justify">
 I am an undergraduate student, currently doing my Bachelor in Science - BS, on Electrical & Computer Engineering from Rajshahi University of Engineering & Technology (RUET), one of the most reputed universities of Bangladesh.
 </p>
