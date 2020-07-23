@@ -1,6 +1,6 @@
 ### Hi, I am Badhon 👋 :smiley:
 
-<h1 align="center" style="text-decoration: none;">Sabbir Ahmed Badhon</h1>
+<h4 align="center" style="font-size:60px">Sabbir Ahmed Badhon</h4>
 <h5 align="center">Undergraduate Student, RUET || Research Novice || ML Enthusiast</h5> 
 
 <!--
