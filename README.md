@@ -1,8 +1,7 @@
 ### Hi, I am Badhon 👋 :smiley:
 
-<h1 align="center"> Md. Sabbir Ahmed</h1>
-
-##### Undergraduate Student
+<h1 align="center">Sabbir Ahmed Badhon</h1>
+<h5 align="center">Undergraduate Student, RUET || Research Novice || ML Enthusiast</h5> 
 
 <!--
 **SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
