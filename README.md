@@ -9,9 +9,7 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 <p align="center">
 <a href="https://www.linkedin.com/in/sabbir-ahmed-badhon/" target="_blank"><img src="linkedin.png" width="25px"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Sabbir_Badhon" target="_blank"><img src="twitter.png" width="25px"></a> &nbsp; &nbsp;
- <a href=""><img width="25px" src="https://github.com/singhkshitij/singhkshitij/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.png" width="25px"></a> &nbsp; &nbsp;
- <a href="mailto:sabbir.ruet15@gmail.com"><img width=30px src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
+<a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.png" width="25px"></a>
 </p>
 
 <!--
