@@ -3,7 +3,7 @@
 <h1 align="center">Sabbir Ahmed Badhon</h1>
 <h4 align="center">Undergraduate Student, RUET || Data Science Novice || Machine Learning Enthusiast</h4> 
 <p align="justify">
-I am an undergraduate student, currently doing my Bachelor in Science - BS, on Electrical & Computer Engineering from Rajshahi University of Engineering & Technology (RUET), one of the most reputed universities of Bangladesh.
+I am an undergraduate student, currently doing my Bachelor in Science - BS, on Electrical & Computer Engineering (ECE) from Rajshahi University of Engineering & Technology (RUET), one of the most reputed universities of Bangladesh. I am a huge geek/nerd and love to read books a lot. Also I have a passion for exploring and learning new things that interests me. I can code in several languages across different platforms. Love traveling, playing indoor and outdoor games 
 </p>
 
 <!--
