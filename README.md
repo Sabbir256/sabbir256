@@ -24,7 +24,7 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 - 👯 I’m looking to collaborate on ML projects.
 - 🤔 I’m looking for help with research funding.
 - 💬 Ask me about topic related to my repos only.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir-ahmed-badhon/) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
 
 <!--
 **SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
