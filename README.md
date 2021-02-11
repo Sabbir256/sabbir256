@@ -12,6 +12,10 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 <a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.png" width="25px"></a>
 </p>
 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
+
+<!--
+**SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
   <br>
   ** <b><em>At present I am looking for funding in data science research program.</em></b>**
@@ -24,11 +28,6 @@ I am an undergraduate student, currently doing my Bachelor in Science - BS, on E
 - 👯 I’m looking to collaborate on ML projects.
 - 🤔 I’m looking for help with research funding.
 - 💬 Ask me about topic related to my repos only.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
-
-<!--
-**SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
