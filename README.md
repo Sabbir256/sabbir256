@@ -13,7 +13,8 @@ I am a fresh graduate. I have completed my Bachelor in Science from the departme
 </p>
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
-
+- - 🔭 I’m currently working on Uptime Monotoring App.
+- 🌱 I’m currently learning NodeJS, React, GraphQL, AWS.
 <!--
 **SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
