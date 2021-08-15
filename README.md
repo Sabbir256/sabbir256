@@ -1,6 +1,6 @@
 ### Hi, I am Badhon. 👋 :smiley:
 
-<h1 align="center">Sabbir Ahmed Badhon</h1>
+<h1 align="center">Md. Sabbir Ahmed Badhon</h1>
 <h3 align="center">Problem Solver</h3> 
 <p align="center">
 I am a fresh graduate. I have completed my Bachelor in Science from the department of Electrical & Computer Engineering (ECE) from Rajshahi University of Engineering & Technology (RUET), one of the most reputed universities of Bangladesh. I am a huge geek/nerd and love to read books a lot. Also I have a passion for exploring and learning new things that interests me. Love traveling, playing indoor and outdoor games.
