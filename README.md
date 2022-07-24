@@ -1,7 +1,10 @@
-<h3 align="left">Md. Sabbir Ahmed</h3>
-<h4 align="left">Software Engineer</h4> 
+<p>
+  <b>Md. Sabbir Ahmed</b><br/>
+  Software Engineer<br/>
+  ReliSource Technologies Ltd.
+</p>
 <p align="left">
-I am a fresh graduate. I have completed my Bachelor in Science from the department of Electrical & Computer Engineering (ECE) from Rajshahi University of Engineering & Technology (RUET), one of the most reputed universities of Bangladesh. I am a huge geek/nerd and love to read books a lot. Also I have a passion for exploring and learning new things that interests me. Love traveling, playing indoor and outdoor games.
+Just your average Software Engineer. Love to dig into any problem and solve them with modern technologies. Responsible, detailed-oriented, and committed engineer, with a get-it-done on-time and high-quality product spirit. Flexible with technologies and stacks. Being a problem solver, I always welcome a challenge.
 </p>
 
 <p align="left">
