@@ -1,20 +1,15 @@
-### Hi, I am Badhon. 👋 :smiley:
-
-<h1 align="center">Md. Sabbir Ahmed</h1>
-<h3 align="center">Problem Solver</h3> 
-<p align="center">
+<h3 align="left">Md. Sabbir Ahmed</h3>
+<h4 align="left">Software Engineer</h4> 
+<p align="left">
 I am a fresh graduate. I have completed my Bachelor in Science from the department of Electrical & Computer Engineering (ECE) from Rajshahi University of Engineering & Technology (RUET), one of the most reputed universities of Bangladesh. I am a huge geek/nerd and love to read books a lot. Also I have a passion for exploring and learning new things that interests me. Love traveling, playing indoor and outdoor games.
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sabbir-ahmed-badhon/" target="_blank"><img src="linkedin.png" width="25px"></a> &nbsp; &nbsp;
+<p align="left">
+<a href="https://www.linkedin.com/in/sabbir96/" target="_blank"><img src="linkedin.png" width="25px"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Sabbir_Badhon" target="_blank"><img src="twitter.png" width="25px"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.png" width="25px"></a>
 </p>
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
-- 🔭 I’m currently working on Uptime Monotoring App.
-- 🌱 I’m currently learning NodeJS, React, GraphQL, AWS.
 <!--
 **SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
@@ -39,4 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Personal Website](http://aboutsabbir.github.io)
 -->
