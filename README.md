@@ -5,8 +5,23 @@
 </p>
 <p align="left">
 Just your average Software Engineer. Love to dig into any problem and solve them with modern technologies. Responsible, detailed-oriented, and committed engineer, with a get-it-done on-time and high-quality product spirit. Flexible with technologies and stacks. Being a problem solver, I always welcome a challenge.
-</p>
+</p></br>
 
+
+:gear: <b>Backend Skills</b>
+<ul>
+  <li>Languages: :mage_man: Apex, :mage_man: Java, Ruby, :mage_man: Node JS</li>
+  <li>Frameworks: Spring, Express, Ruby on Rails</li>
+  <li>Databases: Postgres, MySQL, SOQL</li>
+</ul></br>
+
+:dart: <b>Frontend Skills</b>
+<ul>
+  <li>Languages: HTML, CSS, JavaScript</li>
+  <li>Frameworks: React, AngularJS, Visualforce, Vue, Ruby on Rails</li>
+</ul></br>
+
+Follow me in social media:
 <p align="left">
 <a href="https://www.linkedin.com/in/sabbir96/" target="_blank"><img src="linkedin.png" width="25px"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Sabbir_Badhon" target="_blank"><img src="twitter.png" width="25px"></a> &nbsp; &nbsp;
