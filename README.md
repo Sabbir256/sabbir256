@@ -10,15 +10,15 @@ Just your average Software Engineer. Love to dig into any problem and solve them
 
 :gear: <b>Backend Skills</b>
 <ul>
-  <li>Languages: :mage_man: Apex, :mage_man: Java, Ruby, :mage_man: Node JS</li>
-  <li>Frameworks: Spring, Express, Ruby on Rails</li>
-  <li>Databases: Postgres, MySQL, SOQL</li>
+  <li>Languages: Apex, Java, Ruby, Node JS.</li>
+  <li>Frameworks: Spring, Express, Ruby on Rails.</li>
+  <li>Databases: Postgres, MySQL, SOQL.</li>
 </ul></br>
 
 :dart: <b>Frontend Skills</b>
 <ul>
-  <li>Languages: HTML, CSS, JavaScript</li>
-  <li>Frameworks: React, AngularJS, Visualforce, Vue, Ruby on Rails</li>
+  <li>Languages: HTML, CSS, JavaScript.</li>
+  <li>Frameworks: React, AngularJS, Visualforce, Vue, Ruby on Rails.</li>
 </ul></br>
 
 Follow me in social media:
