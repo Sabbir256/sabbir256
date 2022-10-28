@@ -24,7 +24,7 @@ Just your average Software Engineer. Love to dig into any problem and solve them
 Follow me in social media:
 <p align="left">
 <a href="https://www.linkedin.com/in/sabbir96/" target="_blank"><img src="linkedin.png" width="25px"></a> &nbsp; &nbsp;
-<a href="https://twitter.com/Sabbir_Badhon" target="_blank"><img src="twitter.png" width="25px"></a> &nbsp; &nbsp;
+<a href="https://twitter.com/mesabbir_" target="_blank"><img src="twitter.png" width="25px"></a> &nbsp; &nbsp;
 <a href="https://www.facebook.com/sabbirahmedbadhon" target="_blank"><img src="facebook.png" width="25px"></a>
 </p>
 
