@@ -1,7 +1,6 @@
 <p>
   <b>Md. Sabbir Ahmed</b><br/>
   Software Engineer<br/>
-  ReliSource Technologies Ltd.
 </p>
 <p align="left">
 Just your average Software Engineer. Love to dig into any problem and solve them with modern technologies. Responsible, detailed-oriented, and committed engineer, with a get-it-done on-time and high-quality product spirit. Flexible with technologies and stacks. Being a problem solver, I always welcome a challenge.
