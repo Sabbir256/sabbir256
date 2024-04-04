@@ -6,16 +6,12 @@
 Just your average Software Engineer. Love to dig into any problem and solve them with modern technologies. Responsible, detailed-oriented, and committed engineer, with a get-it-done on-time and high-quality product spirit. Flexible with technologies and stacks. Being a problem solver, I always welcome a challenge.
 </p></br>
 
+- ⚡ Skills: Golang, Ruby on Rails, React, AngularJS, TypeScript, Apex(Java), Postgres
+- 🌱 I’m currently learning Golang.
+- 👯 I’m looking to collaborate on go projects.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Portfolio](http://sabbir256.github.io)
 
 <!--
-**SABadhon/SABadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>
-  <br>
-  ** <b><em>At present I am looking for funding in data science research program.</em></b>**
-  <br>
-  <br>
-</p>
  
 - 🔭 I’m currently working on Deep Learning Models.
 - 🌱 I’m currently learning Tensorflow for Machine Learning.
