@@ -3,15 +3,23 @@
   Software Engineer<br/>
 </p>
 <p align="left">
-Just your average Software Engineer. Love to dig into any problem and solve them with modern technologies. Responsible, detailed-oriented, and committed engineer, with a get-it-done on-time and high-quality product spirit. Flexible with technologies and stacks. Being a problem solver, I always welcome a challenge.
+A seasoned software engineer with over 2 years of hands-on experience. I deal with things like building the backbones of web applications, managing data in the cloud, and making websites look good and work smoothly.
+
+During my software engineering career, I have worked with multiple programming languages, libraries, frameworks, and technologies such as Java(Apex), Ruby on Rails, TypeScript, React, Postgres, AngularJS, and AWS.
+
+My interests range from distributed systems and big data to AI. I'm constantly driven to push my boundaries and explore new technological horizons.
+
+Outside of work, I'm deeply committed to personal growth and self-improvement.</br> 
+I firmly believe in the power of continuous learning, both professionally and personally.<br/>
+In my downtime, you will find me lost in the pages of a captivating book 📚 or listening to podcasts 🎙️
 </p></br>
 
-- ⚡ Skills: Golang, Ruby on Rails, React, AngularJS, TypeScript, Apex(Java), Postgres
+- 🔭 I’m currently working on building an online community for people working in Tech in BD.
 - 🌱 I’m currently learning Golang.
-- 👯 I’m looking to collaborate on go projects.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Portfolio](http://sabbir256.github.io)
+- ⚡ Skills: Golang, Ruby on Rails, React, AngularJS, TypeScript, Apex(Java), Postgres
 
 <!--
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sabbir96) &nbsp; [Facebook](https://www.facebook.com/sabbirahmedbadhon) &nbsp; [Portfolio](http://sabbir256.github.io)
  
 - 🔭 I’m currently working on Deep Learning Models.
 - 🌱 I’m currently learning Tensorflow for Machine Learning.
