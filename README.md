@@ -3,7 +3,7 @@
   Software Engineer<br/>
 </p>
 <p align="left">
-A seasoned software engineer with over 2 years of hands-on experience. I deal with things like building the backbones of web applications, managing data in the cloud, and making websites look good and work smoothly.
+A seasoned software engineer with 3 years of hands-on experience. I deal with things like building the backbones of web applications, managing data in the cloud, and making websites look good and work smoothly.
 
 During my software engineering career, I have worked with multiple programming languages, libraries, frameworks, and technologies such as Java(Apex), Ruby on Rails, TypeScript, React, Postgres, AngularJS, and AWS.
 
